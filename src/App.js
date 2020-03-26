@@ -45,7 +45,7 @@ class App extends Component {
           <div className="inner-container">
             <header>
               <img src={logo} alt="Logo" />
-              <img class="bg-mobile" src={bgMobile} alt="mobile" />
+              <img className="bg-mobile" src={bgMobile} alt="mobile" />
               <h1>
                 <span>We're</span>
                 <br />
